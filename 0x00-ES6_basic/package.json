@@ -1,0 +1,11 @@
+{
+  "scripts": {
+       "dev": "nodemon"  
+  },  
+"devDependencies": {
+    
+    
+"eslint": "^9.11.1"
+    
+}
+}
